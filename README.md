@@ -1,7 +1,7 @@
-Template A/B Test
-=================
+Template Style A/B Test plugin
+==============================
 
-This Joomla 3.x system plugin allows you to perform A/B tests for templates.
+This Joomla 3.x system plugin allows you to perform A/B tests for template styles.
 Within the plugin configuration you can choose 2 template styles. Hint: don't choose the same styles ;-)
 
 When a visitor comes to your site for the first time or after the previous session was expired, the plugin randomly chooses one of the two configured template styles.
