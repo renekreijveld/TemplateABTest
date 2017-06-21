@@ -15,5 +15,5 @@ Use <a href="https://analytics.google.com" target="_blank">Google Analytics</a> 
 * Download the installer file from the [releases page](https://github.com/renekreijveld/TemplateABTest/releases).
 * Install the plugin through your Joomla extension installer.
 * Go to the plugin configuration. Hint: search for "template" in your plugins list.
-* Publish the plugin
+* Publish the plugin.
 * In the Options tab choose the two template styles you wish to test.
