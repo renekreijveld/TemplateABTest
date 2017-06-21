@@ -9,7 +9,7 @@ It then shows the website in that template style and maintains this during the v
 
 **Warning:** if this plugin is active, *all* assigned template styles are ignored! All your pages will be show in the chosen template style.
 
-#Installation instructions:
+# Installation instructions:
 * Download the installer file from the [releases page](https://github.com/renekreijveld/TemplateABTest/releases).
 * Install the plugin through your Joomla extension installer.
 * Go to the plugin configuration. Hint: search for "template" in your plugins list.
