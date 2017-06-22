@@ -1,4 +1,11 @@
 <?php
+/**
+ * @version       0.0.2
+ * @package       TemplateABTest
+ * @copyright     (C) 2017 DSD Business Internet
+ * @license       GNU GPLv3, http://www.gnu.org/licenses/gpl.html
+ */
+
 // no direct access
 defined( '_JEXEC' ) or die( 'Restricted access' );
 
